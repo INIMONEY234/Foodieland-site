@@ -29,7 +29,6 @@ Designed with a clean aesthetic, smooth mobile navigation, and engaging sections
 
 - **HTML5** — Semantic markup
 - **CSS3** — Flexbox, Grid, Custom Properties, Media Queries
-- **Vanilla JavaScript** — Mobile menu toggle, overlay, and interactions
 - No frameworks (pure frontend)
 
 ---
